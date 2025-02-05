@@ -1,2 +1,1 @@
-# bannedwa
-tools haram bre ini
+Tools haram ini bre!
