@@ -1,3 +1,8 @@
+#wkwk mau recode ya dek? jangan ya dek ya😹
+#yg recode kontol nya berkurang 5 cm
+#apa liat-liat, pake tinggal pake aj lah
+
+
 #!/data/data/com.termux/files/usr/bin/bash
 clear
 
